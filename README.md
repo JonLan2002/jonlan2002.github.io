@@ -1,9 +1,9 @@
 ## Important
 
-1. [Front Matter](http://jekyllrb.com/docs/frontmatter/)
-2. [Markdown Style Guide](http://www.jekyllnow.com/Markdown-Style-Guide/)
-3. [Prose.io](http://prose.io/)
-4. [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
+- [Front Matter](http://jekyllrb.com/docs/frontmatter/)
+- [Markdown Style Guide](http://www.jekyllnow.com/Markdown-Style-Guide/)
+- [Prose.io](http://prose.io/)
+- [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ## Local Development
 
