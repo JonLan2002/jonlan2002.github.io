@@ -6,11 +6,11 @@ dependencies:
   override:
     - gem install jekyll html-proofer jekyll-sitemap jekyll-feed
   post:
-    - bundle exec jekyll build
+    - jekyll build
 
 test:
   post:
-    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+    - htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
 
 deployment:
   prod:
