@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JonLan2002/jonlan2002.github.io.svg?branch=master)](https://travis-ci.org/JonLan2002/jonlan2002.github.io)
 ## Important
 
 - [Front Matter](http://jekyllrb.com/docs/frontmatter/)
