@@ -6,7 +6,7 @@ dependencies:
   override:
     - gem install jekyll html-proofer jekyll-sitemap jekyll-feed
   post:
-    - jekyll build
+    - jekyll build --drafts --future --unpublished --verbose --strict_front_matter
 
 test:
   post:
