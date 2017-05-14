@@ -12,8 +12,8 @@ test:
   post:
     - htmlproofer ./_site --disable-external
 
-deployment:
-  prod:
-    branch: master
-    commands:
-      - rsync -va --delete ./_site username@my-website:/var/html
+#deployment:
+#  prod:
+#    branch: master
+#    commands:
+#      - rsync -va --delete ./_site username@my-website:/var/html
