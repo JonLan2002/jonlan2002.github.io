@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- head
+- 2.3.3
 
 install: gem install jekyll html-proofer jekyll-sitemap jekyll-feed
 script: jekyll build --drafts --future --unpublished --verbose && htmlproofer ./_site --disable-external
