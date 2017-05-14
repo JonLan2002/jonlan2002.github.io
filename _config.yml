@@ -1,4 +1,5 @@
 exclude: [vendor]
+timezone: Europe/Berlin
 
 #
 # This file contains configuration flags to customize your site
