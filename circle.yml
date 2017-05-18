@@ -10,7 +10,7 @@ dependencies:
 
 test:
   post:
-    - htmlproofer ./_site --check_html --verbose
+    - htmlproofer ./_site --verbose
 
 #deployment:
 #  prod:
