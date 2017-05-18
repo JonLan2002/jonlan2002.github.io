@@ -8,4 +8,10 @@
     docker_image_tag: "latest"
     execute_commands:
     - "chown jekyll:jekyll $WORKING_DIR"
-    - "jekyll build"
+    - "jekyll build --verbose"
+  - action: "Execute: htmlproofer"
+    type: "TEST"
+    docker_image_name: "18fgsa/html-proofer"
+    docker_image_tag: "latest"
+    execute_commands:
+    - "htmlproofer ./_site --assume_extension --check_html --verbose"
