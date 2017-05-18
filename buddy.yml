@@ -14,4 +14,4 @@
     docker_image_name: "18fgsa/html-proofer"
     docker_image_tag: "latest"
     execute_commands:
-    - "htmlproofer ./_site --assume_extension --check_html --verbose"
+    - "htmlproofer ./_site --assume_extension --check_html"
