@@ -1,1 +1,1 @@
-![Guardians of the Front Page](http://i.imgur.com/OOFRJvr.gifv)
+![Guardians of the Front Page](http://imgur.com/download/OOFRJvr)
