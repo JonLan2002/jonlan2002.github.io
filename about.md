@@ -4,4 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hello World!
+## Stuff that I recommend:
+
+Browsers:
+SeaMonkey
+Vivaldi
+Opera
+Brave
+
+Email:
+Opera Mail
+Mailpile
+
+OS:
+openSUSE
+Fedora
+Debian
