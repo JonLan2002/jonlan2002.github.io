@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+Name: Jonathan Konrad Langela  
+Email: jonlan@live.de
+
 ## Stuff that I recommend:
 
 ### Browsers:
