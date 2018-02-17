@@ -1,5 +1,5 @@
 ---
-title: Browsers
+title: Browser
 ---
 
 - [Brave](https://www.brave.com/)
