@@ -20,3 +20,5 @@ permalink: /about/
 - openSUSE
 - Fedora
 - Debian
+- Haiku
+- ReactOS
