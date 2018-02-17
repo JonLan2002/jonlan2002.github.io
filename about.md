@@ -7,16 +7,16 @@ permalink: /about/
 ## Stuff that I recommend:
 
 ### Browsers:
-SeaMonkey  
-Vivaldi  
-Opera  
-Brave
+- SeaMonkey
+- Vivaldi
+- Opera
+- Brave
 
 ### Email:
-Opera Mail  
-Mailpile
+- Opera Mail
+- Mailpile
 
 ### OS:
-openSUSE  
-Fedora  
-Debian
+- openSUSE
+- Fedora
+- Debian
