@@ -9,19 +9,6 @@ Email: jonlan@live.de
 
 ## Stuff that I recommend:
 
-### Browsers:
-- SeaMonkey
-- Vivaldi
-- Opera
-- Brave
-
-### Email:
-- Opera Mail
-- Mailpile
-
-### OS:
-- openSUSE
-- Fedora
-- Debian
-- Haiku
-- ReactOS
+### [Operating system](https://jonlan2002.github.io/os/)
+### [Browser](https://jonlan2002.github.io/browser/)
+### [E-Mail](https://jonlan2002.github.io/e-mail/)
