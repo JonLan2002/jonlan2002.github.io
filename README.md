@@ -1,9 +1,8 @@
 [![Build Status](https://travis-ci.org/JonLan2002/jonlan2002.github.io.svg?branch=master)](https://travis-ci.org/JonLan2002/jonlan2002.github.io)
-## Important
 
+- [Prose.io](http://prose.io/)
 - [Front Matter](http://jekyllrb.com/docs/frontmatter/)
 - [Markdown Style Guide](http://www.jekyllnow.com/Markdown-Style-Guide/)
-- [Prose.io](http://prose.io/)
 - [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ## Local Development
