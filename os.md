@@ -6,4 +6,8 @@ title: Operating system
 - [Fedora](https://getfedora.org/)
 - [openSUSE](https://www.opensuse.org/)
 - [ReactOS](https://www.reactos.org/)
+- FreeDOS
+- FreeBSD
+- GuixSD
 - [Haiku](https://www.haiku-os.org/)
+- étoilé
