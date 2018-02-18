@@ -10,4 +10,3 @@ title: Operating system
 - FreeBSD
 - GuixSD
 - [Haiku](https://www.haiku-os.org/)
-- étoilé
