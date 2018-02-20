@@ -8,14 +8,12 @@ Name: Jonathan Langela
 Email: jonlan@live.de
 
 ## Stuff that I recommend:
-
 - [Operating system](https://jonlan2002.github.io/os/)
 - [Browser](https://jonlan2002.github.io/browser/)
 - [E-Mail](https://jonlan2002.github.io/e-mail/)
 - [Usenet](https://jonlan2002.github.io/usenet/)
 
 ## Stuff that I don't recommend:
-
 ### Adobe Flash
 - [WIRED](https://www.wired.com/2015/07/adobe-flash-player-die/)
 - [BGR](https://bgr.com/2015/07/27/how-to-uninstall-flash-pc-mac-chrome/)
