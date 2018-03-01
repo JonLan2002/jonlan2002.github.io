@@ -1,5 +1,5 @@
 ---
-title: Content-Management-System
+title: Content management system
 ---
 
 - [WordPress](https://de.wikipedia.org/wiki/WordPress)
