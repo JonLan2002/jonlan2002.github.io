@@ -1,0 +1,13 @@
+---
+title: Hola VPN
+---
+- [DIGITAL TRENDS](https://www.digitaltrends.com/computing/hola-found-to-be-selling-users-internet-bandwidth-as-botnet/)
+- [Cloudwards](https://www.cloudwards.net/hola-vpn/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Hola_(VPN)#Criticism)
+- [Adios, Hola!](http://adios-hola.org/)
+- [ZDNet](http://www.zdnet.com/article/hola-a-free-vpn-with-a-side-of-botnet/)
+- [Fortune](http://fortune.com/2015/05/29/hola-luminati-vpn/)
+- [PCWorld](https://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html)
+- [Lifehacker](https://lifehacker.com/hola-better-internet-sells-your-bandwidth-turning-its-1707496872)
+- [TorGuard](https://torguard.net/blog/the-hola-botnet-not-so-free-or-safe/)
+- [Reddit](https://www.reddit.com/r/OutOfTheLoop/comments/2wl1pi/is_hola_still_okay_to_use_why_have_i_been_seeing/)
