@@ -19,3 +19,5 @@ Email: jonlan@live.de
 - [AVG](https://jonlan2002.github.io/avg/)
 - [Cliqz](https://jonlan2002.github.io/cliqz/)
 - [Ghostery](https://jonlan2002.github.io/ghostery/)
+- [Hola VPN](https://jonlan2002.github.io/hola/)
+- [Web of Trust](https://jonlan2002.github.io/wot/)
