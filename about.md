@@ -21,3 +21,5 @@ Email: jonlan@live.de
 - [Ghostery](https://jonlan2002.github.io/ghostery/)
 - [Hola VPN](https://jonlan2002.github.io/hola/)
 - [Web of Trust](https://jonlan2002.github.io/wot/)
+
+{% include känguru.html %}
