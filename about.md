@@ -22,4 +22,4 @@ Email: jonlan@live.de
 - [Hola VPN](https://jonlan2002.github.io/hola/)
 - [Web of Trust](https://jonlan2002.github.io/wot/)
 
-{% include känguru.html %}
+{% include discord.html %}
