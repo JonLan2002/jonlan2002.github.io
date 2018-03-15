@@ -2,7 +2,7 @@
 title: discord
 ---
 
-- [Mein Server](https://discord.gg/RDtzsqs)
+- [My Server](https://discord.gg/RDtzsqs)
 - [asozialesnetzwerk.com](http://asozialesnetzwerk.com/users/32)
 
 ## Server
