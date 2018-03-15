@@ -2,8 +2,10 @@
 title: discord
 ---
 
+- [Mein Server](https://discord.gg/RDtzsqs)
 - [asozialesnetzwerk.com](http://asozialesnetzwerk.com/users/32)
 
-##Server
+## Server
+### German
 - [Das Asoziale Netzwerk](https://discord.gg/up6Kdgm)
 - [Steemit D-A-CH](https://discord.gg/WNWwx3F)
