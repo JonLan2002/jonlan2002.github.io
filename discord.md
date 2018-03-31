@@ -7,5 +7,5 @@ title: discord
 
 ## Server
 ### German
-- [Das Asoziale Netzwerk](https://discord.gg/up6Kdgm)
-- [Steemit D-A-CH](https://discord.gg/WNWwx3F)
+- [Das Asoziale Netzwerk](https://discord.gg/4u8QZcE)
+- [Steemit D-A-CH](https://discord.gg/qnaWTk7)
